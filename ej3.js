@@ -1,6 +1,6 @@
 function calcularTabla() {
     let numero       = parseInt(document.getElementById("Tabla").value);
-    let lista_tabla  = document.getElementById("lista_tabla");
+    let lista_tabla  = document.getElementById("tabla");
 
     lista_tabla.innerHTML = "";
 
